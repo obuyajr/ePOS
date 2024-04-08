@@ -16,3 +16,4 @@ C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ePOS.dll
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ref\ePOS.dll
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ePOS.pdb
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ePOS.genruntimeconfig.cache
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ePOS.Properties.Resources.resources
