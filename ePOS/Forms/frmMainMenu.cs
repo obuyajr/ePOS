@@ -30,5 +30,14 @@ namespace ePOS.Forms
             Application.Exit();
 
         }
+
+        private void btnFrontOffice_Click(object sender, EventArgs e)
+        {
+            // Create an instance of the new form
+            frmFrontOffice newForm = new frmFrontOffice();
+
+            // Show the new form
+            newForm.Show();
+        }
     }
 }

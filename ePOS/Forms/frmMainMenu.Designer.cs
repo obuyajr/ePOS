@@ -36,8 +36,8 @@ namespace ePOS.Forms
             this.button4 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
             this.btnExit = new System.Windows.Forms.Button();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.SuspendLayout();
@@ -78,6 +78,7 @@ namespace ePOS.Forms
             this.btnFrontOffice.TabIndex = 0;
             this.btnFrontOffice.Text = "Front Office";
             this.btnFrontOffice.UseVisualStyleBackColor = false;
+            this.btnFrontOffice.Click += new System.EventHandler(this.btnFrontOffice_Click);
             // 
             // btnBackOffice
             // 
@@ -150,14 +151,6 @@ namespace ePOS.Forms
             this.btnExit.UseVisualStyleBackColor = false;
             this.btnExit.Click += new System.EventHandler(this.btnExit_Click);
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Location = new System.Drawing.Point(3, 3);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(85, 72);
-            this.pictureBox1.TabIndex = 6;
-            this.pictureBox1.TabStop = false;
-            // 
             // label1
             // 
             this.label1.AutoSize = true;
@@ -168,6 +161,14 @@ namespace ePOS.Forms
             this.label1.Size = new System.Drawing.Size(37, 15);
             this.label1.TabIndex = 7;
             this.label1.Text = "label1";
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(3, 3);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(85, 72);
+            this.pictureBox1.TabIndex = 6;
+            this.pictureBox1.TabStop = false;
             // 
             // frmMainMenu
             // 

@@ -12,3 +12,4 @@ C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.exe
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.pdb
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.csproj.AssemblyReference.cache
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.Forms.frmMainMenu.resources
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.Forms.frmFrontOffice.resources
