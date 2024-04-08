@@ -49,13 +49,13 @@ namespace ePOS
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(139, 213);
+            this.panel1.Size = new System.Drawing.Size(139, 200);
             this.panel1.TabIndex = 0;
             // 
             // textBox1
             // 
             this.textBox1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.textBox1.Location = new System.Drawing.Point(254, 41);
+            this.textBox1.Location = new System.Drawing.Point(235, 25);
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(260, 29);
             this.textBox1.TabIndex = 1;
@@ -63,14 +63,14 @@ namespace ePOS
             // textBox2
             // 
             this.textBox2.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.textBox2.Location = new System.Drawing.Point(254, 107);
+            this.textBox2.Location = new System.Drawing.Point(235, 91);
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(260, 29);
             this.textBox2.TabIndex = 2;
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(254, 159);
+            this.button1.Location = new System.Drawing.Point(235, 143);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(94, 35);
             this.button1.TabIndex = 3;
@@ -79,7 +79,7 @@ namespace ePOS
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(420, 159);
+            this.button2.Location = new System.Drawing.Point(401, 143);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(94, 35);
             this.button2.TabIndex = 4;
@@ -89,7 +89,7 @@ namespace ePOS
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(180, 49);
+            this.label1.Location = new System.Drawing.Point(161, 33);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(68, 15);
             this.label1.TabIndex = 5;
@@ -98,7 +98,7 @@ namespace ePOS
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(180, 115);
+            this.label2.Location = new System.Drawing.Point(161, 99);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(68, 15);
             this.label2.TabIndex = 6;
@@ -117,7 +117,7 @@ namespace ePOS
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.GhostWhite;
-            this.ClientSize = new System.Drawing.Size(537, 213);
+            this.ClientSize = new System.Drawing.Size(537, 200);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button2);
