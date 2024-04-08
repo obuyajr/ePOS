@@ -1,0 +1,14 @@
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.Forms.frmLogin.resources
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.Properties.Resources.resources
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.csproj.GenerateResource.cache
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.AssemblyInfoInputs.cache
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.AssemblyInfo.cs
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.csproj.CoreCompileInputs.cache
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\bin\Debug\net472\ePOS.exe.config
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\bin\Debug\net472\ePOS.exe
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\bin\Debug\net472\ePOS.pdb
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.exe
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.pdb
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.csproj.AssemblyReference.cache
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net472\ePOS.Forms.frmMainMenu.resources

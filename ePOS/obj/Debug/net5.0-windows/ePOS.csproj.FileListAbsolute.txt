@@ -6,7 +6,6 @@ C:\Users\Felix\Desktop\C#\ePOS\ePOS\bin\Debug\net5.0-windows\ePOS.dll
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\bin\Debug\net5.0-windows\ref\ePOS.dll
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\bin\Debug\net5.0-windows\ePOS.pdb
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ePOS.csproj.AssemblyReference.cache
-C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ePOS.Form1.resources
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ePOS.csproj.GenerateResource.cache
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ePOS.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ePOS.AssemblyInfoInputs.cache
@@ -17,3 +16,4 @@ C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ref\ePOS.dll
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ePOS.pdb
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ePOS.genruntimeconfig.cache
 C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ePOS.Properties.Resources.resources
+C:\Users\Felix\Desktop\C#\ePOS\ePOS\obj\Debug\net5.0-windows\ePOS.frmLogin.resources

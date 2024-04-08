@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ePOS.modules;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,13 +9,20 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace ePOS
+namespace ePOS.Forms
 {
-    public partial class Form1 : Form
+    public partial class frmMainMenu : Form
     {
-        public Form1()
+        public frmMainMenu()
         {
             InitializeComponent();
+        }
+
+        private void frmMainMenu_Load(object sender, EventArgs e)
+        {
+            label1.Text = sysPublic.loggedInUserName;
+             
+
         }
 
         private void btnExit_Click(object sender, EventArgs e)
