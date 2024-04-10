@@ -32,8 +32,8 @@ namespace ePOS.Forms
             this.splitContainer1 = new System.Windows.Forms.SplitContainer();
             this.tabControl1 = new System.Windows.Forms.TabControl();
             this.tabPage1 = new System.Windows.Forms.TabPage();
+            this.btnCashSales = new System.Windows.Forms.Button();
             this.tabPage2 = new System.Windows.Forms.TabPage();
-            this.btnBackOffice = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.splitContainer1)).BeginInit();
             this.splitContainer1.Panel1.SuspendLayout();
             this.splitContainer1.SuspendLayout();
@@ -56,7 +56,7 @@ namespace ePOS.Forms
             // splitContainer1.Panel2
             // 
             this.splitContainer1.Panel2.BackColor = System.Drawing.SystemColors.ControlDark;
-            this.splitContainer1.Size = new System.Drawing.Size(1071, 559);
+            this.splitContainer1.Size = new System.Drawing.Size(1071, 561);
             this.splitContainer1.SplitterDistance = 120;
             this.splitContainer1.TabIndex = 0;
             // 
@@ -75,13 +75,30 @@ namespace ePOS.Forms
             // tabPage1
             // 
             this.tabPage1.BackColor = System.Drawing.Color.White;
-            this.tabPage1.Controls.Add(this.btnBackOffice);
+            this.tabPage1.Controls.Add(this.btnCashSales);
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
             this.tabPage1.Size = new System.Drawing.Size(1057, 86);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Front Office";
+            // 
+            // btnCashSales
+            // 
+            this.btnCashSales.BackColor = System.Drawing.Color.White;
+            this.btnCashSales.FlatAppearance.BorderSize = 0;
+            this.btnCashSales.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnCashSales.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnCashSales.ForeColor = System.Drawing.Color.Black;
+            this.btnCashSales.Image = global::ePOS.Properties.Resources.Oxygen_Icons_org_Oxygen_Actions_list_add_user_24;
+            this.btnCashSales.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
+            this.btnCashSales.Location = new System.Drawing.Point(6, 6);
+            this.btnCashSales.Name = "btnCashSales";
+            this.btnCashSales.Size = new System.Drawing.Size(65, 74);
+            this.btnCashSales.TabIndex = 2;
+            this.btnCashSales.Text = "Cash Sales";
+            this.btnCashSales.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
+            this.btnCashSales.UseVisualStyleBackColor = false;
             // 
             // tabPage2
             // 
@@ -93,28 +110,11 @@ namespace ePOS.Forms
             this.tabPage2.Text = "tabPage2";
             this.tabPage2.UseVisualStyleBackColor = true;
             // 
-            // btnBackOffice
-            // 
-            this.btnBackOffice.BackColor = System.Drawing.Color.White;
-            this.btnBackOffice.FlatAppearance.BorderSize = 0;
-            this.btnBackOffice.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnBackOffice.Font = new System.Drawing.Font("Segoe UI Semibold", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnBackOffice.ForeColor = System.Drawing.Color.Black;
-            this.btnBackOffice.Image = global::ePOS.Properties.Resources.Oxygen_Icons_org_Oxygen_Actions_list_add_user_24;
-            this.btnBackOffice.ImageAlign = System.Drawing.ContentAlignment.TopCenter;
-            this.btnBackOffice.Location = new System.Drawing.Point(6, 6);
-            this.btnBackOffice.Name = "btnBackOffice";
-            this.btnBackOffice.Size = new System.Drawing.Size(65, 74);
-            this.btnBackOffice.TabIndex = 2;
-            this.btnBackOffice.Text = "Back Office";
-            this.btnBackOffice.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
-            this.btnBackOffice.UseVisualStyleBackColor = false;
-            // 
             // frmFrontOffice
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1071, 559);
+            this.ClientSize = new System.Drawing.Size(1071, 561);
             this.Controls.Add(this.splitContainer1);
             this.Name = "frmFrontOffice";
             this.splitContainer1.Panel1.ResumeLayout(false);
@@ -132,6 +132,6 @@ namespace ePOS.Forms
         private System.Windows.Forms.TabControl tabControl1;
         private System.Windows.Forms.TabPage tabPage1;
         private System.Windows.Forms.TabPage tabPage2;
-        private System.Windows.Forms.Button btnBackOffice;
+        private System.Windows.Forms.Button btnCashSales;
     }
 }
